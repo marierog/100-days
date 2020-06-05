@@ -1,9 +1,11 @@
-Day 1: 5 JUN 2020
-Progress:
-Notes:
-Links:
+# 100 Days Of Code - Log
 
-Day 2: 6 JUN 2020
-Progress:
-Notes:
-Links:
+### Day 0: 5 JUN 2020
+**Progress:** Prepared everything to start the 100 days of code challenge
+**Notes:**
+**Links:**
+
+### Day 1: 6 JUN 2020
+**Progress:**
+**Notes:**
+**Links:**
